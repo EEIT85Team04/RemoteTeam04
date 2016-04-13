@@ -8,8 +8,5 @@
 </head>
 <body>
 <h1>Lab05_01</h1>
-
-<a href="ch05_01/ProduceDataServlet">顯示ch05_01.ProduceDataServlet所產生的資料</a><P/>
-
 </body>
 </html>
