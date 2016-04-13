@@ -14,6 +14,5 @@
 <p>問單一明牌</a><P/>
 <p>請給大樂透號碼</p>
 
->>>>>>> branch 'master' of https://github.com/EEIT85Team04/RemoteTeam04.git
 </body>
 </html>
