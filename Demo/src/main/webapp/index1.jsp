@@ -6,7 +6,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>JSP 課堂作業</title>
 </head>
-<P>1,3,15,22,32,5566</P>'
 <p>5566不能亡</p>
 </body>
 </html>
