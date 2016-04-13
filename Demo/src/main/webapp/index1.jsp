@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>JSP 課堂作業</h1>
+<h1>Leon test</h1>
 <a href="queryLottery.jsp">問單一明牌</a><P/>
 </body>
 </html>
