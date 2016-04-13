@@ -4,4 +4,6 @@ public class Test {
    void ShowTest(){
 	   
    }
+  int keyNo;
+  String name; 
 }
