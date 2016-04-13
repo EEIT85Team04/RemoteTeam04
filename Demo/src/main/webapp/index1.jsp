@@ -9,5 +9,6 @@
 <body>
 <h1>JSP 課堂作業</h1>
 <a href="queryLottery.jsp">問單一明牌</a><P/>
+<a href="https://zh.wikipedia.org/zh-tw/%E4%B8%83%E9%BE%8D%E7%8F%A0Z_%E7%A5%9E%E8%88%87%E7%A5%9E">神與神的對決很好看</h2>
 </body>
 </html>
